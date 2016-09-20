@@ -1,6 +1,6 @@
 #!/bin/sh
 
 cd /
-cd /home/pi/SaltedAnarchyScript.py
+cd /home/pi/git-repos/SaltedAnarchy
 sudo python SaltedAnarchyScript.py
 cd /

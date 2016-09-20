@@ -2,7 +2,7 @@
 import sys
 from twython import Twython
 
-tweetStr = "So, how about this year we don't vote anyone in for president, and everyone promises to just be cool."
+tweetStr = "Today, my favorite punk group is Operation Ivy. Specifically, I love their song Bombshell."
 
 apiKey = 'mCR8rttzMM1rwWPOwX6bpeqFj'
 apiSecret = 'lYUPOd67hRrXbECFGX0eswrgRFmYFYzsexm214GZr0vsDgF7Fm'
